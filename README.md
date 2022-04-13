@@ -27,8 +27,8 @@ End of program.
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By:M.S.JEEVA
+# Register Number:212221230040
 # i) Convert BGR and RGB to HSV and GRAY
 
 import cv2
